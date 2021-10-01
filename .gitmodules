@@ -1,0 +1,21 @@
+[submodule "PortActivityScenario"]
+	path = PortActivityScenario
+	url = https://github.com/pixel-ports/pixel-platform
+[submodule "PhotovoltaicProductionPrediction"]
+	path = PhotovoltaicProductionPrediction
+	url = https://github.com/pixel-ports/PV_prod_predic.git
+[submodule "AspmTrafficPrediction"]
+	path = AspmTrafficPrediction
+	url = https://github.com/pixel-ports/aspm_traffic_prediction.git
+[submodule "GPMBVesselCallEDA"]
+	path = GPMBVesselCallEDA
+	url = https://github.com/pixel-ports/gpmb_vessel_calls_eda.git
+[submodule "PPATrafficPrediction"]
+	path = PPATrafficPrediction
+	url = https://github.com/pixel-ports/PPA_Traffic_Prediction.git
+[submodule "AISSatelliteImagery"]
+	path = AISSatelliteImagery
+	url = https://github.com/pixel-ports/AIS_satellite_imagery_merge.git
+[submodule "THPSTrafficPrediction"]
+	path = THPSTrafficPrediction
+	url = https://github.com/pixel-ports/thpa_traffic_prediction.git
